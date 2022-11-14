@@ -1,2 +1,2 @@
 # FrankHacks
-CalHacks 2022 project with Flynn and Wills
+CalHacks 2022 project with Connor Armstrong and Wills Stern
